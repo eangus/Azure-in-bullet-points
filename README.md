@@ -17,12 +17,12 @@
 - [AZ-304: Microsoft Azure Architect Design](#az-304-microsoft-azure-architect-design)
 - [AZ-400: Designing and Implementing Microsoft DevOps Solutions](#az-400-designing-and-implementing-microsoft-devops-solutions)
 
-## Support
+## Support - Undergroundwires
 
 - ⭐️ Simplest way to say thanks is just to it a star 🤩
 - ❤️ To show more support:
-  - ☕️ [buy me a coffee](https://buymeacoffee.com/undergroundwire)
-  - 👏🏿 [sponsor me](https://github.com/sponsors/undergroundwires)
+  - ☕️ [buy source a coffee](https://buymeacoffee.com/undergroundwire)
+  - 👏🏿 [sponsor source](https://github.com/sponsors/undergroundwires)
   - 🎈 [donate using another way](https://undergroundwires.dev/donate)
 - ✨ Contributions of any kind are welcome!
 
